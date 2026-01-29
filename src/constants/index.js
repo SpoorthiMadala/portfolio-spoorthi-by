@@ -130,7 +130,7 @@ export const contactInfo = [
   {
     name: "Website",
     value: "spoorthi-madala.netlify.app",
-    href: "https://spoorthi-madala.netlify.app/",
+    href: "https://madala-spoorthi-portfolio.netlify.app/",
     icon: "/assets/arrow-up.svg",
   },
 ];
