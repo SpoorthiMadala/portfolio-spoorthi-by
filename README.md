@@ -2,7 +2,6 @@
 
 A high-performance, ultra-responsive 3D developer portfolio built with **React**, **Three.js**, **Tailwind CSS 4**, and **motion/react**. This portfolio features a dynamic 3D workspace, interactive animations, and a fully functional contact system using **Brevo**.
 
-![3D Portfolio Preview](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
 
 ---
 
@@ -83,3 +82,4 @@ If you have any questions or just want to connect, feel free to reach out throug
 ## ⭐ Acknowledgments
 
 This project was built and refined with a focus on cutting-edge responsiveness and modern 3D web design. 
+
