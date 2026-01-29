@@ -95,7 +95,7 @@ const Hero = () => {
         <Canvas className="w-full h-full pointer-events-auto">
 
 
-          <Suspense fallback={<Loader />}>
+          <Suspense fallback={<Loader position={deskPos} />}>
             <PerspectiveCamera makeDefault position={[0, 0, 30]} />
 
             <Float floatIntensity={1}>
